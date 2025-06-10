@@ -3,3 +3,5 @@ On October 22nd, @MichaelSteeber wrote an article for @9to5mac ( http://9to5mac.
 For a video of this in action, go to: https://www.youtube.com/watch?v=UggYGThmFEo&list=UU7C761Fn9aih_W6kMvkm24w
 
 Please consider this prototype code. There are unpolished edge cases!
+A simple web-based prototype is available in the 'web' directory.
+
